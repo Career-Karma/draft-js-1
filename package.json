@@ -1,5 +1,5 @@
 {
-  "name": "draft-js",
+  "name": "react-native-draft-js",
   "description": "A React framework for building text editors.",
   "version": "0.11.6",
   "keywords": [
@@ -9,7 +9,7 @@
     "richtext"
   ],
   "homepage": "http://draftjs.org/",
-  "bugs": "https://github.com/facebook/draft-js/issues",
+  "bugs": "https://github.com/Career-Karma/react-native-draft-js/issues",
   "files": [
     "dist/",
     "lib/",
@@ -17,7 +17,7 @@
   ],
   "main": "lib/Draft.js",
   "style": "dist/Draft.css",
-  "repository": "facebook/draft-js",
+  "repository": "Career-Karma/react-native-draft-js",
   "license": "MIT",
   "scripts": {
     "prepublish": "npm run build",

@@ -18,8 +18,8 @@ const ContentBlock = require('ContentBlock');
 const ContentState = require('ContentState');
 const DefaultDraftBlockRenderMap = require('DefaultDraftBlockRenderMap');
 const DefaultDraftInlineStyle = require('DefaultDraftInlineStyle');
-const DraftEditor = require('DraftEditor.react');
-const DraftEditorBlock = require('DraftEditorBlock.react');
+// const DraftEditor = require('DraftEditor.react');
+// const DraftEditorBlock = require('DraftEditorBlock.react');
 const DraftEntity = require('DraftEntity');
 const DraftModifier = require('DraftModifier');
 const DraftEntityInstance = require('DraftEntityInstance');
@@ -38,8 +38,8 @@ const getVisibleSelectionRect = require('getVisibleSelectionRect');
 const convertFromHTML = require('convertFromHTMLToContentBlocks');
 
 const DraftPublic = {
-  Editor: DraftEditor,
-  EditorBlock: DraftEditorBlock,
+  // Editor: DraftEditor,
+  // EditorBlock: DraftEditorBlock,
   EditorState,
 
   CompositeDecorator: CompositeDraftDecorator,
