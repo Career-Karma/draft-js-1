@@ -20,8 +20,15 @@
 
 --------------------
 
+## Whats different in react-native version?
+I got rid of `.react` imports which relied on web APIs which were not available in react native environment.
+This allows to build a custom draft-js powered text inputs on mobile getting rid of the crashes.
+
+--------------------
+
 Draft.js is a JavaScript rich text editor framework, built for React and
 backed by an immutable model.
+
 
 - **Extensible and Customizable:** We provide the building blocks to enable
 the creation of a broad variety of rich text composition experiences, from
