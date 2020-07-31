@@ -1,5 +1,5 @@
 {
-  "name": "react-native-draft-js",
+  "name": "@ilya.lopukhin/react-native-draft-js",
   "description": "A React framework for building text editors.",
   "version": "0.11.6",
   "keywords": [
